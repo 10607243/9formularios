@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.entrar[type=submit] {
+	background-color: orange;
+	height: 50px;
+	width: 300px;
+	color:white;
+}
+
+ul {
+	text-decoration: underline;
+}
+
+.left {
+	float:left;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.creatucuenta {
+	background-color: green;
+	text-decoration: bold;
+	color: white;
+	height: 50px;
+	width: 300px;
+	
+}
